@@ -37,6 +37,16 @@ Trabalho há mais de 10 anos com engenharia de testes na manufatura eletrônica,
   </a>
 </p>
 
+## Linguagens
+
+<p align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jcampelo&amp;layout=compact&amp;hide=html,css,jupyter%20notebook,shell,plpgsql,java&amp;langs_count=3&amp;hide_border=true&amp;theme=github_dark&amp;custom_title=Linguagens%20mais%20usadas" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jcampelo&amp;layout=compact&amp;hide=html,css,jupyter%20notebook,shell,plpgsql,java&amp;langs_count=3&amp;hide_border=true&amp;theme=default&amp;custom_title=Linguagens%20mais%20usadas" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcampelo&amp;layout=compact&amp;hide=html,css,jupyter%20notebook,shell,plpgsql,java&amp;langs_count=3&amp;hide_border=true&amp;theme=default&amp;custom_title=Linguagens%20mais%20usadas" alt="Linguagens mais usadas" />
+  </picture>
+</p>
+
 ## Projetos em destaque
 
 | Projeto | O que é | Stack |

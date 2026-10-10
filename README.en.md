@@ -37,6 +37,16 @@ I have spent over 10 years in test engineering for electronics manufacturing, fr
   </a>
 </p>
 
+## Languages
+
+<p align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jcampelo&amp;layout=compact&amp;hide=html,css,jupyter%20notebook,shell,plpgsql,java&amp;langs_count=3&amp;hide_border=true&amp;theme=github_dark&amp;custom_title=Most%20used%20languages" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jcampelo&amp;layout=compact&amp;hide=html,css,jupyter%20notebook,shell,plpgsql,java&amp;langs_count=3&amp;hide_border=true&amp;theme=default&amp;custom_title=Most%20used%20languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcampelo&amp;layout=compact&amp;hide=html,css,jupyter%20notebook,shell,plpgsql,java&amp;langs_count=3&amp;hide_border=true&amp;theme=default&amp;custom_title=Most%20used%20languages" alt="Most used languages" />
+  </picture>
+</p>
+
 ## Featured projects
 
 | Project | What it is | Stack |
