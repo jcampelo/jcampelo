@@ -7,7 +7,7 @@
 Trabalho há mais de 10 anos com engenharia de testes na manufatura eletrônica, do lançamento de novos produtos ao teste e à inspeção de placas na linha de produção. Hoje levo essa disciplina de processo e qualidade para IA e dados: construo aplicações em Python e TypeScript, integro APIs e modelos de linguagem e coloco tudo em produção com CI/CD. Tenho 3 certificações AWS e conduzo a AtivaSys, iniciativa de automação e IA para pequenas e médias empresas.
 
 - 🌍 Moro em Manaus, Amazonas, Brasil
-- 🏢 AtivaSys: [A DEFINIR: URL do site]
+- 🏢 AtivaSys: automação e IA para pequenas e médias empresas
 - ✉️ Contato: [campelo.jefferson@gmail.com](mailto:campelo.jefferson@gmail.com)
 - 🧠 Estou aprendendo: análise de dados (pós-graduação) e Power BI com IA
 - 🤝 Aberto a vagas em IA e dados, posições técnicas na indústria e projetos pela AtivaSys

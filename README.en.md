@@ -7,7 +7,7 @@
 I have spent over 10 years in test engineering for electronics manufacturing, from new product introduction to board testing and inspection on the production line. Today I bring that process and quality discipline to AI and data: I build applications in Python and TypeScript, integrate APIs and language models, and ship them to production with CI/CD. I hold 3 AWS certifications and run AtivaSys, an automation and AI initiative for small and medium businesses.
 
 - 🌍 Based in Manaus, Amazonas, Brazil
-- 🏢 AtivaSys: [A DEFINIR: URL do site]
+- 🏢 AtivaSys: automation and AI for small and medium businesses
 - ✉️ Contact: [campelo.jefferson@gmail.com](mailto:campelo.jefferson@gmail.com)
 - 🧠 Currently learning: data analysis (postgraduate program) and Power BI with AI
 - 🤝 Open to roles in AI and data, technical positions in industry, and projects through AtivaSys
