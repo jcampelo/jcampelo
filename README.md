@@ -2,7 +2,7 @@
 
 ## IA aplicada e dados, com base em engenharia de testes
 
-Trabalho há mais de 10 anos com engenharia de testes e manufatura eletrônica (NPI, ICT, FCT, AOI, SPI). Hoje levo essa disciplina de processo e qualidade para IA e dados: construo aplicações em Python e TypeScript, integro APIs e modelos de linguagem e coloco tudo em produção com CI/CD. Tenho 3 certificações AWS e conduzo a AtivaSys, iniciativa de automação e IA para pequenas e médias empresas.
+Trabalho há mais de 10 anos com engenharia de testes na manufatura eletrônica, do lançamento de novos produtos ao teste e à inspeção de placas na linha de produção. Hoje levo essa disciplina de processo e qualidade para IA e dados: construo aplicações em Python e TypeScript, integro APIs e modelos de linguagem e coloco tudo em produção com CI/CD. Tenho 3 certificações AWS e conduzo a AtivaSys, iniciativa de automação e IA para pequenas e médias empresas.
 
 - 🌍 Moro em Manaus, Amazonas, Brasil
 - 🏢 AtivaSys: [A DEFINIR: URL do site]
