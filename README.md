@@ -1,3 +1,5 @@
+[🇺🇸 English version](https://github.com/jcampelo/jcampelo/blob/main/README.en.md)
+
 # Olá 👋 Meu nome é Jefferson Campelo
 
 ## IA aplicada e dados, com base em engenharia de testes
